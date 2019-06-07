@@ -1,6 +1,6 @@
 # pirouette_examples
 
-`pirouette` examples.
+[pirouette](https://github.com/richelbilderbeek/pirouette) examples.
 
 ## Overview
 
