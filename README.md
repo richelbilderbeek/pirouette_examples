@@ -3,7 +3,7 @@
 `pirouette` examples.
 
 Example|Phylogeny|Gen|Cand|Twin|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
--------|---------|-----------|---------------------
+-------|---------|---|----|----|---------------------
 [1](https://github.com/richelbilderbeek/pirouette_example_1)|Yule|Y|N|N|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_1.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_1)
 [2](https://github.com/richelbilderbeek/pirouette_example_2)|Yule|Y|Y|N|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_2.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_2)
 [3](https://github.com/richelbilderbeek/pirouette_example_3)|Yule|Y|Y|Y|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_3.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_3)
