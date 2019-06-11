@@ -16,6 +16,8 @@ Example|Phylogeny|Gen|Cand|Twin|[![Travis CI logo](TravisCI.png)](https://travis
 [ 8](https://github.com/richelbilderbeek/pirouette_example_8 )|Yule|N|Y|Y|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_8.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_8 )
 [ 9](https://github.com/richelbilderbeek/pirouette_example_9 )|Fict|Y|N|Y|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_9.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_9 )
 [10](https://github.com/richelbilderbeek/pirouette_example_10)|Fict|N|Y|Y|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_10.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_10)
+[11](https://github.com/richelbilderbeek/pirouette_example_11)|Fict|N|Y|N|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_11.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_11)
+[12](https://github.com/richelbilderbeek/pirouette_example_12)|Fict|N|Y|N|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_12.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_12)
 
 ## Legend
 
