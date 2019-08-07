@@ -4,7 +4,7 @@
 
 ## Overview
 
-Example|Phylogeny|Gen|Cand|Twin|Err|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)
+Example|Phylogeny|Gen|Cand|Twin|Err|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 -------|---------|---|----|----|---|---------------------
 [ 1](https://github.com/richelbilderbeek/pirouette_example_1 )|Yule|Y|N|N|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_1.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_1 )
 [ 2](https://github.com/richelbilderbeek/pirouette_example_2 )|Yule|Y|Y|N|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_2.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_2 )
