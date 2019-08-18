@@ -19,6 +19,7 @@ Example|Phylogeny|Gen|Cand|Twin|Err|[![Travis CI logo](pics/TravisCI.png)](https
 [11](https://github.com/richelbilderbeek/pirouette_example_11)|Yule|N|Y|N|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_11.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_11)
 [12](https://github.com/richelbilderbeek/pirouette_example_12)|Fict|N|Y|N|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_12.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_12)
 [13](https://github.com/richelbilderbeek/pirouette_example_13)|Fict|Y|Y|Y|ADG |[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_13.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_13)
+[14](https://github.com/richelbilderbeek/pirouette_example_14)|Fict|Y|Y|Y|LTN |[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_14.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_14)
 
 ## Legend
 
@@ -31,3 +32,4 @@ Cand      |Y/N  |A set of candidate models is yes/no used in this experiment
 Twin      |Y/N  |The background noise is measured yes/no by using twinning
 Err       |nLTT |The error statistic used is nLTT
 Err       |ADG  |The error statistic used is the absolute delta gamma
+Err       |LTN  |Log-transformed nLTT statistic
