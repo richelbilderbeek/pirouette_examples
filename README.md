@@ -26,16 +26,14 @@ Example                                                       |Phylogeny|Gen|Can
  
 ## Legend
 
-Column    |Value     |Description
-----------|----------|---------------------------------------------------------------
-Phylogeny |Yule      |The true phylogeny is created from a Yule (pure-birth) model
-Phylogeny |Fict      |The true phylogeny is completely fictious and artificial. If any, it follows both a multiple-birth and a protracted speciation model
-Gen       |Y/N       |A generative model is yes/no hand-picked for this experiment
-Cand      |Y/N       |A set of candidate models is yes/no used in this experiment
-Twin      |Y/N       |The background noise is measured yes/no by using twinning
-TTM       |BD,CT     |Twin tree method, BD=`birth_death`, Y=`yule`, CT=`copy_true`
-TASM      |JC,NSL,NSU|Twin alignment site model, JC=`jc69`, NSL: `node_sub_linked` and NSU: `node_sub_unlinked`
+Column    |Value       |Description
+----------|------------|---------------------------------------------------------------------------------------------------------------------
+Phylogeny |Yule        |The true phylogeny is created from a Yule (pure-birth) model
+Phylogeny |Fict        |The true phylogeny is completely fictious and artificial. If any, it follows both a multiple-birth and a protracted speciation model
+Gen       |Y/N         |A generative model is yes/no hand-picked for this experiment
+Cand      |Y/N         |A set of candidate models is yes/no used in this experiment
+Twin      |Y/N         |The background noise is measured yes/no by using twinning
+TTM       |BD,CT       |Twin tree method, BD=`birth_death`, Y=`yule`, CT=`copy_true`
+TASM      |JC,NSL,NSU  |Twin alignment site model, JC: `jc69`, NSL: `node_sub_linked` and NSU: `node_sub_unlinked`
+Err       |nLTT,ADG,LTN|The error statistic used is nLTT, ADG: absolute delta gamma, LTN: Log-transformed nLTT statistic
 
-Err       |nLTT |The error statistic used is nLTT
-Err       |ADG  |The error statistic used is the absolute delta gamma
-Err       |LTN  |Log-transformed nLTT statistic
