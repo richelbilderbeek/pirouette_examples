@@ -38,3 +38,15 @@ STRAF     |STD,NSL,NSU |Simulate TRue Alignment function: STD: `standard`, NSL: 
 STWAF     |STD,STDEQ   |Simulate TWin Alignment function, STD: `standard`, STEQ: `standard with equal number of mutations`
 Err       |nLTT,ADG,LTN|The error statistic used is nLTT, ADG: absolute delta gamma, LTN: Log-transformed nLTT statistic
 
+## FAQ
+
+### Why are some `TTM` and `STWAF` values empty?
+
+If there is no twinning (Twin = `N`), one cannot specify a `TTM` ('Twin Tree Model'),
+nor a `STWAF` ('Simulate TWin Alignment Function').
+
+### Why are some AppVeyor values empty?
+
+These are empty when there are candidate models (Cand = `T`),
+because model comparison is unsupported on Windows.
+
