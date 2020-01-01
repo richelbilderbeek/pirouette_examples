@@ -4,6 +4,12 @@
 
 ## Overview
 
+### `pirouette` setups of published experiments
+
+ * [Sarver et al., 2019](https://github.com/richelbilderbeek/pirouette_example_sarver_at_al_2019)
+
+### Combinations of `pirouette` functionality
+
 Example                                                       |Phylogeny|Gen|Cand|Twin|TTM|STRAF|STWAF|Err |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)                                                                                                 |[![AppVeyor logo](pics/AppVeyor.png)](https://www.appveyor.com)
 --------------------------------------------------------------|---------|---|----|----|---|-----|-----|----|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [ 1](https://github.com/richelbilderbeek/pirouette_example_1 )|Yule     |Y  |N   |N   | - |STD  | -   |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_1.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_1 ) |[![Build status](https://ci.appveyor.com/api/projects/status/hk3klir60f660sq6/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-1/branch/master)
@@ -23,6 +29,7 @@ Example                                                       |Phylogeny|Gen|Can
 [15](https://github.com/richelbilderbeek/pirouette_example_15)|Fict     |Y  |N   |Y   |CT |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_15.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_15)|[![Build status](https://ci.appveyor.com/api/projects/status/ver1sfwm1xyllwv7/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-15/branch/master)
 [16](https://github.com/richelbilderbeek/pirouette_example_16)|Fict     |Y  |N   |Y   |CT |NSL  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_16.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_16)|[![Build status](https://ci.appveyor.com/api/projects/status/3nvk5jt46lakbax5/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-16/branch/master)
 [17](https://github.com/richelbilderbeek/pirouette_example_17)|Fict     |Y  |N   |Y   |CT |NSU  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_17.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_17)|[![Build status](https://ci.appveyor.com/api/projects/status/i6i4ptib5jb30mml/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-17/branch/master)
+
  
 ## Legend
 
