@@ -1,0 +1,35 @@
+digraph G
+{
+  1 -> 2 [ label="Cand = Y" ]; 
+  1 -> 4 [ label="Phylogeny = Fict" ]; 
+  1 -> 7 [ label="Twin = Y" ]; 
+  2 -> 3 [ label="Twin = Y" ]; 
+  2 -> 5 [ label="Phylogeny = Fict" ]; 
+  3 -> 6 [ label="Phylogeny = Yule" ]; 
+  3 -> 9 [ label="Cand = N" ]; 
+  3 -> 13 [ label="Err = ADG" ];
+  3 -> 14 [ label="Err = LTN" ];
+  3 -> 18 [ label="STWAL = STD" ];
+  4 -> 1 [ label="Phylogeny = Yule" ]; 
+  5 -> 2 [ label="Phylogeny = Yule" ]; 
+  6 -> 3 [ label="Phylogeny = Fict" ]; 
+  6 -> 8 [ label="Gen = N" ]; 
+  7 -> 1 [ label="Twin = N" ]; 
+  8 -> 6 [ label="Gen = Y" ]; 
+  8 -> 10 [ label="Phylogeny = Fict" ]; 
+  8 -> 11 [ label="Twin = N" ]; 
+  9 -> 3 [ label="Cand = Y" ]; 
+  9 -> 15 [ label="TTM = CT" ]; 
+  10 -> 8 [ label="Phylogeny = Yule" ]; 
+  11 -> 8 [ label="Twin = Y" ]; 
+  11 -> 12 [ label="Phylogeny = Fict" ]; 
+  12 -> 11 [ label="Phylogeny = Yule" ]; 
+  13 -> 3 [ label="Err = nLTT" ];
+  14 -> 3 [ label="Err = nLTT" ];
+  15 -> 9 [ label="TTM = BD" ]; 
+  15 -> 16 [ label="STRAF = NSL" ]; 
+  15 -> 17 [ label="STRAF = NSU" ]; 
+  16 -> 15 [ label="STRAF = STD" ]; 
+  17 -> 15 [ label="STRAF = STD" ]; 
+  18 -> 3 [ label="STWAL = STDEQ" ];
+}

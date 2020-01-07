@@ -29,7 +29,7 @@ Example                                                       |Phylogeny|Gen|Can
 [15](https://github.com/richelbilderbeek/pirouette_example_15)|Fict     |Y  |N   |Y   |CT |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_15.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_15)|[![Build status](https://ci.appveyor.com/api/projects/status/ver1sfwm1xyllwv7/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-15/branch/master)
 [16](https://github.com/richelbilderbeek/pirouette_example_16)|Fict     |Y  |N   |Y   |CT |NSL  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_16.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_16)|[![Build status](https://ci.appveyor.com/api/projects/status/3nvk5jt46lakbax5/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-16/branch/master)
 [17](https://github.com/richelbilderbeek/pirouette_example_17)|Fict     |Y  |N   |Y   |CT |NSU  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_17.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_17)|[![Build status](https://ci.appveyor.com/api/projects/status/i6i4ptib5jb30mml/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-17/branch/master)
-
+[18](https://github.com/richelbilderbeek/pirouette_example_18)|Fict     |Y  |Y   |Y   |BD |STD  |STD  |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_18.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_18)| -
  
 ## Legend
 
@@ -57,3 +57,8 @@ nor a `STWAF` ('Simulate TWin Alignment Function').
 These are empty when there are candidate models (Cand = `T`),
 because model comparison is unsupported on Windows.
 
+### How are the examples related?
+
+See the table, or use this figure:
+
+[](doc/dependencies.png)
