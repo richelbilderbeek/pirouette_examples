@@ -34,5 +34,22 @@ digraph G
   17 -> 15 [ label="STRAF = STD" ]; 
   18 -> 3 [ label="STWAL = STDEQ" ];
   19 -> 3 [ label="DSL = 1k" ];
-  1 [label=<<TABLE><TR><TD><IMG SRC="errors.png"/></TD></TR></TABLE>>];
+  # 1 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_1/example_1_314/errors.png"/></TD></TR></TABLE>>];
+  # 2 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_2/example_2_314/errors.png"/></TD></TR></TABLE>>];
+  # 3 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_3/example_3_314/errors.png"/></TD></TR></TABLE>>];
+  # 4 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_4/example_4_314/errors.png"/></TD></TR></TABLE>>];
+  # 5 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_5/example_5_314/errors.png"/></TD></TR></TABLE>>];
+  # 6 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_6/example_6_314/errors.png"/></TD></TR></TABLE>>];
+  # 7 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_7/example_7_314/errors.png"/></TD></TR></TABLE>>];
+  # 8 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_8/example_8_314/errors.png"/></TD></TR></TABLE>>];
+  # 9 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_9/example_9_314/errors.png"/></TD></TR></TABLE>>];
+  # 10 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_10/example_10_314/errors.png"/></TD></TR></TABLE>>];
+  # 11 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_11/example_11_314/errors.png"/></TD></TR></TABLE>>];
+  # 12 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_12/example_12_314/errors.png"/></TD></TR></TABLE>>];
+  # 13 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_13/example_13_314/errors.png"/></TD></TR></TABLE>>];
+  # 14 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_14/example_14_314/errors.png"/></TD></TR></TABLE>>];
+  # 15 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_15/example_15_314/errors.png"/></TD></TR></TABLE>>];
+  # 16 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_16/example_16_314/errors.png"/></TD></TR></TABLE>>];
+  # 17 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_17/example_17_314/errors.png"/></TD></TR></TABLE>>];
+  # 18 [label=<<TABLE><TR><TD><IMG SRC="/home/richel/GitHubs/pirouette_example_18/example_18_314/errors.png"/></TD></TR></TABLE>>];
 }
