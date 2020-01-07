@@ -10,6 +10,7 @@ digraph G
   3 -> 13 [ label="Err = ADG" ];
   3 -> 14 [ label="Err = LTN" ];
   3 -> 18 [ label="STWAL = STD" ];
+  3 -> 19 [ label="DSL = 10k" ];
   4 -> 1 [ label="Phylogeny = Yule" ]; 
   5 -> 2 [ label="Phylogeny = Yule" ]; 
   6 -> 3 [ label="Phylogeny = Fict" ]; 
@@ -32,4 +33,6 @@ digraph G
   16 -> 15 [ label="STRAF = STD" ]; 
   17 -> 15 [ label="STRAF = STD" ]; 
   18 -> 3 [ label="STWAL = STDEQ" ];
+  19 -> 3 [ label="DSL = 1k" ];
+  1 [label=<<TABLE><TR><TD><IMG SRC="errors.png"/></TD></TR></TABLE>>];
 }
