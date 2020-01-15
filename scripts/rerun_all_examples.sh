@@ -14,7 +14,7 @@ do
   cd $folder
   git pull
 
-  ./scripts/rerun.sh
+  time ./scripts/rerun.sh
   git add --all :/
   git commit -m "Rerun"
   git push
