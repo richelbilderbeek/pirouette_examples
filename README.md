@@ -16,6 +16,8 @@ For the supplementary materials, certain parameters have been investigated:
    the effect of the number of taxa
  * [21](https://github.com/richelbilderbeek/pirouette_example_21): 
    the effect of DNA sequence length
+ * [19](https://github.com/richelbilderbeek/pirouette_example_19): 
+   the effect of halving a DNA sequence length
  * [17](https://github.com/richelbilderbeek/pirouette_example_17): 
    the effect of non-clock like models
  * [22](https://github.com/richelbilderbeek/pirouette_example_22): 
@@ -28,6 +30,10 @@ For the supplementary materials, certain parameters have been investigated:
    The effect of equal or equalized mutation rate in the twin alignment
  * [24](https://github.com/richelbilderbeek/pirouette_example_24):
    The effect of mutation rate
+ * [25](https://github.com/richelbilderbeek/pirouette_example_25):
+   the effect of RNG in the alignment for the error distribution
+ * [29](https://github.com/richelbilderbeek/pirouette_example_29):
+   the effect of MCMC chain length on ESS
 
 ### Other published experiments
 
