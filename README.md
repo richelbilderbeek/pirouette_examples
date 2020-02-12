@@ -4,11 +4,39 @@
 
 ## Overview
 
-### `pirouette` setups of published experiments
+### Experiments for the `pirouette` article supplementary material
+
+In the `pirouette` article, one DD tree is used, from [example 30](https://github.com/richelbilderbeek/pirouette_example_30).
+
+For the supplementary materials, certain parameters have been investigated:
+
+ * [28](https://github.com/richelbilderbeek/pirouette_example_28): 
+   use a distribution of DD trees (instead of just one)
+ * [20](https://github.com/richelbilderbeek/pirouette_example_20): 
+   the effect of the number of taxa
+ * [21](https://github.com/richelbilderbeek/pirouette_example_21): 
+   the effect of DNA sequence length
+ * [17](https://github.com/richelbilderbeek/pirouette_example_17): 
+   the effect of non-clock like models
+ * [22](https://github.com/richelbilderbeek/pirouette_example_22): 
+   The effect of assuming a Yule tree prior on a Yule tree
+ * [26](https://github.com/richelbilderbeek/pirouette_example_26): 
+   The effect of assuming a Yule tree prior on a BD tree
+ * [23](https://github.com/richelbilderbeek/pirouette_example_23):
+   The effect of differently common diversity-dependent trees
+ * [18](https://github.com/richelbilderbeek/pirouette_example_18):
+   The effect of equal or equalized mutation rate in the twin alignment
+ * [24](https://github.com/richelbilderbeek/pirouette_example_24):
+   The effect of mutation rate
+
+### Other published experiments
 
  * [Sarver et al., 2019](https://github.com/richelbilderbeek/pirouette_example_sarver_at_al_2019)
 
 ### Combinations of `pirouette` functionality
+
+These are all runs based on one phylogeny.
+Each of these examples serves as a high-level test.
 
 Example                                                       |Phylogeny|Gen|Cand|Twin|TTM|DSL|STRAF|STWAF|Err |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)                                                                                                 |[![AppVeyor logo](pics/AppVeyor.png)](https://www.appveyor.com)
 --------------------------------------------------------------|---------|---|----|----|---|---|-----|-----|----|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -31,6 +59,7 @@ Example                                                       |Phylogeny|Gen|Can
 [17](https://github.com/richelbilderbeek/pirouette_example_17)|Fict     |Y  |N   |Y   |CT |1k |NSU  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_17.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_17)|[![Build status](https://ci.appveyor.com/api/projects/status/i6i4ptib5jb30mml/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-17/branch/master)
 [18](https://github.com/richelbilderbeek/pirouette_example_18)|Fict     |Y  |Y   |Y   |BD |1k |STD  |STD  |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_18.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_18)| -
 [19](https://github.com/richelbilderbeek/pirouette_example_19)|Fict     |Y  |Y   |Y   |BD |10k|STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_19.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_19)| -
+[30](https://github.com/richelbilderbeek/pirouette_example_30)|DD       |Y  |Y   |Y   |BD |10k|STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_30.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_30)| -
  
 ## Legend
 
