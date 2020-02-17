@@ -37,6 +37,7 @@ For the supplementary materials, certain parameters have been investigated:
 
 ### Other published experiments
 
+ * [Revell et al., 2015](https://github.com/richelbilderbeek/pirouette_example_revell_at_al_2015)
  * [Sarver et al., 2019](https://github.com/richelbilderbeek/pirouette_example_sarver_at_al_2019)
 
 ### Combinations of `pirouette` functionality
