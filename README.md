@@ -10,29 +10,41 @@ In the `pirouette` article, one DD tree is used, from [example 30](https://githu
 
 For the supplementary materials, certain parameters have been investigated:
 
- * [28](https://github.com/richelbilderbeek/pirouette_example_28): 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_28.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_28)
+   [28](https://github.com/richelbilderbeek/pirouette_example_28): 
    use a distribution of DD trees (instead of just one)
- * [20](https://github.com/richelbilderbeek/pirouette_example_20): 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_20.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_20) 
+   [20](https://github.com/richelbilderbeek/pirouette_example_20): 
    the effect of the number of taxa
- * [21](https://github.com/richelbilderbeek/pirouette_example_21): 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_21.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_21) 
+   [21](https://github.com/richelbilderbeek/pirouette_example_21): 
    the effect of DNA sequence length
- * [19](https://github.com/richelbilderbeek/pirouette_example_19): 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_19.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_19)  
+   [19](https://github.com/richelbilderbeek/pirouette_example_19): 
    the effect of halving a DNA sequence length
- * [17](https://github.com/richelbilderbeek/pirouette_example_17): 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_17) 
+   [17](https://github.com/richelbilderbeek/pirouette_example_17): 
    the effect of non-clock like models
- * [22](https://github.com/richelbilderbeek/pirouette_example_22): 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_22.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_22) 
+   [22](https://github.com/richelbilderbeek/pirouette_example_22): 
    The effect of assuming a Yule tree prior on a Yule tree
- * [26](https://github.com/richelbilderbeek/pirouette_example_26): 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_26.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_26) 
+   [26](https://github.com/richelbilderbeek/pirouette_example_26): 
    The effect of assuming a Yule tree prior on a BD tree
- * [23](https://github.com/richelbilderbeek/pirouette_example_23):
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_23.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_23) 
+   [23](https://github.com/richelbilderbeek/pirouette_example_23):
    The effect of differently common diversity-dependent trees
- * [18](https://github.com/richelbilderbeek/pirouette_example_18):
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_18.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_18) 
+   [18](https://github.com/richelbilderbeek/pirouette_example_18):
    The effect of equal or equalized mutation rate in the twin alignment
- * [24](https://github.com/richelbilderbeek/pirouette_example_24):
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_24.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_24) 
+   [24](https://github.com/richelbilderbeek/pirouette_example_24):
    The effect of mutation rate
- * [25](https://github.com/richelbilderbeek/pirouette_example_25):
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_25.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_25) 
+   [25](https://github.com/richelbilderbeek/pirouette_example_25):
    the effect of RNG in the alignment for the error distribution
- * [29](https://github.com/richelbilderbeek/pirouette_example_29):
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_29.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_29) 
+   [29](https://github.com/richelbilderbeek/pirouette_example_29):
    the effect of MCMC chain length on ESS
 
 ### Other published experiments
