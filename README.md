@@ -19,10 +19,10 @@ For the supplementary materials, certain parameters have been investigated:
  * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_21.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_21) 
    [21](https://github.com/richelbilderbeek/pirouette_example_21): 
    the effect of DNA sequence length
- * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_19.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_19)  
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_19.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_19)
    [19](https://github.com/richelbilderbeek/pirouette_example_19): 
    the effect of halving a DNA sequence length
- * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_17) 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_17)
    [17](https://github.com/richelbilderbeek/pirouette_example_17): 
    the effect of non-clock like models
  * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_22.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_22) 
