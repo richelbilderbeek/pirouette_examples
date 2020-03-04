@@ -10,40 +10,52 @@ In the `pirouette` article, one DD tree is used, from [example 30](https://githu
 
 For the supplementary materials, certain parameters have been investigated:
 
- * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_28.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_28)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_28.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_28)
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_28.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_28)
    [28](https://github.com/richelbilderbeek/pirouette_example_28): 
    use a distribution of DD trees (instead of just one)
- * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_20.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_20) 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_20.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_20) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_20.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_20) 
    [20](https://github.com/richelbilderbeek/pirouette_example_20): 
    the effect of the number of taxa
- * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_21.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_21) 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_21.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_21) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_21.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_21) 
    [21](https://github.com/richelbilderbeek/pirouette_example_21): 
    the effect of DNA sequence length
- * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_19.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_19)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_19.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_19)
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_19.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_19)
    [19](https://github.com/richelbilderbeek/pirouette_example_19): 
    the effect of halving a DNA sequence length
- * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_17)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_17.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_17)
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_17.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_17)
    [17](https://github.com/richelbilderbeek/pirouette_example_17): 
    the effect of non-clock like models
- * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_22.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_22) 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_22.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_22) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_22.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_22) 
    [22](https://github.com/richelbilderbeek/pirouette_example_22): 
    The effect of assuming a Yule tree prior on a Yule tree
- * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_26.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_26) 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_26.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_26) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_26.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_26) 
    [26](https://github.com/richelbilderbeek/pirouette_example_26): 
    The effect of assuming a Yule tree prior on a BD tree
- * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_23.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_23) 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_23.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_23) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_23.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_23) 
    [23](https://github.com/richelbilderbeek/pirouette_example_23):
    The effect of differently common diversity-dependent trees
- * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_18.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_18) 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_18.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_18) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_18.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_18) 
    [18](https://github.com/richelbilderbeek/pirouette_example_18):
    The effect of equal or equalized mutation rate in the twin alignment
- * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_24.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_24) 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_24.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_24) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_24.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_24) 
    [24](https://github.com/richelbilderbeek/pirouette_example_24):
    The effect of mutation rate
- * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_25.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_25) 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_25.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_25) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_25.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_25) 
    [25](https://github.com/richelbilderbeek/pirouette_example_25):
    the effect of RNG in the alignment for the error distribution
- * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_29.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_29) 
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_29.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_29) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_29.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_29) 
    [29](https://github.com/richelbilderbeek/pirouette_example_29):
    the effect of MCMC chain length on ESS
 
@@ -59,26 +71,26 @@ Each of these examples serves as a high-level test.
 
 Example                                                       |Phylogeny|Gen|Cand|Twin|TTM|DSL|STRAF|STWAF|Err |[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)                                                                                                 |[![AppVeyor logo](pics/AppVeyor.png)](https://www.appveyor.com)
 --------------------------------------------------------------|---------|---|----|----|---|---|-----|-----|----|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[ 1](https://github.com/richelbilderbeek/pirouette_example_1 )|Yule     |Y  |N   |N   | - |1k |STD  | -   |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_1.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_1 ) |[![Build status](https://ci.appveyor.com/api/projects/status/hk3klir60f660sq6/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-1/branch/master)
-[ 2](https://github.com/richelbilderbeek/pirouette_example_2 )|Yule     |Y  |Y   |N   | - |1k |STD  | -   |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_2.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_2 ) | -
-[ 3](https://github.com/richelbilderbeek/pirouette_example_3 )|Fict     |Y  |Y   |Y   |BD |1k |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_3.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_3 ) | -
-[ 4](https://github.com/richelbilderbeek/pirouette_example_4 )|Fict     |Y  |N   |N   | - |1k |STD  | -   |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_4.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_4 ) |[![Build status](https://ci.appveyor.com/api/projects/status/61jt55rne9dcvl6l/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-4/branch/master)
-[ 5](https://github.com/richelbilderbeek/pirouette_example_5 )|Fict     |Y  |Y   |N   | - |1k |STD  | -   |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_5.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_5 ) | -
-[ 6](https://github.com/richelbilderbeek/pirouette_example_6 )|Yule     |Y  |Y   |Y   |BD |1k |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_6.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_6 ) | -
-[ 7](https://github.com/richelbilderbeek/pirouette_example_7 )|Yule     |Y  |N   |Y   |BD |1k |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_7.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_7 ) |[![Build status](https://ci.appveyor.com/api/projects/status/dcxvl5ls3d6404iy/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-7/branch/master)
-[ 8](https://github.com/richelbilderbeek/pirouette_example_8 )|Yule     |N  |Y   |Y   |BD |1k |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_8.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_8 ) | -
-[ 9](https://github.com/richelbilderbeek/pirouette_example_9 )|Fict     |Y  |N   |Y   |BD |1k |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_9.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_9 ) |[![Build status](https://ci.appveyor.com/api/projects/status/gv8r7yjbyvcbeybm/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-9/branch/master)
-[10](https://github.com/richelbilderbeek/pirouette_example_10)|Fict     |N  |Y   |Y   |BD |1k |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_10.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_10) | -
-[11](https://github.com/richelbilderbeek/pirouette_example_11)|Yule     |N  |Y   |N   | - |1k |STD  | -   |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_11.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_11) | -
-[12](https://github.com/richelbilderbeek/pirouette_example_12)|Fict     |N  |Y   |N   | - |1k |STD  | -   |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_12.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_12) | -
-[13](https://github.com/richelbilderbeek/pirouette_example_13)|Fict     |Y  |Y   |Y   |BD |1k |STD  |STDEQ|ADG |[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_13.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_13)| -
-[14](https://github.com/richelbilderbeek/pirouette_example_14)|Fict     |Y  |Y   |Y   |BD |1k |STD  |STDEQ|LTN |[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_14.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_14)| -
-[15](https://github.com/richelbilderbeek/pirouette_example_15)|Fict     |Y  |N   |Y   |CT |1k |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_15.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_15)|[![Build status](https://ci.appveyor.com/api/projects/status/ver1sfwm1xyllwv7/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-15/branch/master)
-[16](https://github.com/richelbilderbeek/pirouette_example_16)|Fict     |Y  |N   |Y   |CT |1k |NSL  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_16.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_16)|[![Build status](https://ci.appveyor.com/api/projects/status/3nvk5jt46lakbax5/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-16/branch/master)
-[17](https://github.com/richelbilderbeek/pirouette_example_17)|Fict     |Y  |N   |Y   |CT |1k |NSU  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_17.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_17)|[![Build status](https://ci.appveyor.com/api/projects/status/i6i4ptib5jb30mml/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-17/branch/master)
-[18](https://github.com/richelbilderbeek/pirouette_example_18)|Fict     |Y  |Y   |Y   |BD |1k |STD  |STD  |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_18.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_18)| -
-[19](https://github.com/richelbilderbeek/pirouette_example_19)|Fict     |Y  |Y   |Y   |BD |10k|STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_19.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_19)| -
-[30](https://github.com/richelbilderbeek/pirouette_example_30)|DD       |Y  |Y   |Y   |BD |10k|STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_30.svg?branch=master )](https://travis-ci.org/richelbilderbeek/pirouette_example_30)| -
+[ 1](https://github.com/richelbilderbeek/pirouette_example_1 )|Yule     |Y  |N   |N   | - |1k |STD  | -   |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_1.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_1 ) |[![Build status](https://ci.appveyor.com/api/projects/status/hk3klir60f660sq6/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-1/branch/develop)
+[ 2](https://github.com/richelbilderbeek/pirouette_example_2 )|Yule     |Y  |Y   |N   | - |1k |STD  | -   |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_2.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_2 ) | -
+[ 3](https://github.com/richelbilderbeek/pirouette_example_3 )|Fict     |Y  |Y   |Y   |BD |1k |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_3.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_3 ) | -
+[ 4](https://github.com/richelbilderbeek/pirouette_example_4 )|Fict     |Y  |N   |N   | - |1k |STD  | -   |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_4.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_4 ) |[![Build status](https://ci.appveyor.com/api/projects/status/61jt55rne9dcvl6l/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-4/branch/develop)
+[ 5](https://github.com/richelbilderbeek/pirouette_example_5 )|Fict     |Y  |Y   |N   | - |1k |STD  | -   |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_5.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_5 ) | -
+[ 6](https://github.com/richelbilderbeek/pirouette_example_6 )|Yule     |Y  |Y   |Y   |BD |1k |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_6.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_6 ) | -
+[ 7](https://github.com/richelbilderbeek/pirouette_example_7 )|Yule     |Y  |N   |Y   |BD |1k |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_7.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_7 ) |[![Build status](https://ci.appveyor.com/api/projects/status/dcxvl5ls3d6404iy/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-7/branch/develop)
+[ 8](https://github.com/richelbilderbeek/pirouette_example_8 )|Yule     |N  |Y   |Y   |BD |1k |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_8.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_8 ) | -
+[ 9](https://github.com/richelbilderbeek/pirouette_example_9 )|Fict     |Y  |N   |Y   |BD |1k |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_9.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_9 ) |[![Build status](https://ci.appveyor.com/api/projects/status/gv8r7yjbyvcbeybm/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-9/branch/develop)
+[10](https://github.com/richelbilderbeek/pirouette_example_10)|Fict     |N  |Y   |Y   |BD |1k |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_10.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_10) | -
+[11](https://github.com/richelbilderbeek/pirouette_example_11)|Yule     |N  |Y   |N   | - |1k |STD  | -   |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_11.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_11) | -
+[12](https://github.com/richelbilderbeek/pirouette_example_12)|Fict     |N  |Y   |N   | - |1k |STD  | -   |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_12.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_12) | -
+[13](https://github.com/richelbilderbeek/pirouette_example_13)|Fict     |Y  |Y   |Y   |BD |1k |STD  |STDEQ|ADG |[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_13.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_13)| -
+[14](https://github.com/richelbilderbeek/pirouette_example_14)|Fict     |Y  |Y   |Y   |BD |1k |STD  |STDEQ|LTN |[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_14.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_14)| -
+[15](https://github.com/richelbilderbeek/pirouette_example_15)|Fict     |Y  |N   |Y   |CT |1k |STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_15.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_15)|[![Build status](https://ci.appveyor.com/api/projects/status/ver1sfwm1xyllwv7/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-15/branch/develop)
+[16](https://github.com/richelbilderbeek/pirouette_example_16)|Fict     |Y  |N   |Y   |CT |1k |NSL  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_16.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_16)|[![Build status](https://ci.appveyor.com/api/projects/status/3nvk5jt46lakbax5/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-16/branch/develop)
+[17](https://github.com/richelbilderbeek/pirouette_example_17)|Fict     |Y  |N   |Y   |CT |1k |NSU  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_17.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_17)|[![Build status](https://ci.appveyor.com/api/projects/status/i6i4ptib5jb30mml/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-17/branch/develop)
+[18](https://github.com/richelbilderbeek/pirouette_example_18)|Fict     |Y  |Y   |Y   |BD |1k |STD  |STD  |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_18.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_18)| -
+[19](https://github.com/richelbilderbeek/pirouette_example_19)|Fict     |Y  |Y   |Y   |BD |10k|STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_19.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_19)| -
+[30](https://github.com/richelbilderbeek/pirouette_example_30)|DD       |Y  |Y   |Y   |BD |10k|STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_30.svg?branch=develop )](https://travis-ci.org/richelbilderbeek/pirouette_example_30)| -
  
 ## Legend
 
