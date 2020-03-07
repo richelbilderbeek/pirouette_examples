@@ -14,7 +14,7 @@ do
 
   echo "git folder: "$folder
   git add --all :/
-  git commit -m "EOD"
+  git commit -m "AppVeyor runs script"
   git pull
   git push
 
