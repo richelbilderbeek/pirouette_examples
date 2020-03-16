@@ -42,6 +42,8 @@ For the supplementary materials, certain parameters have been investigated:
    the effect of halving a DNA sequence length
  * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_27.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_27)
    [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_27.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_27)
+   [![Build status](https://ci.appveyor.com/api/projects/status/ilhefx4w9a2c9c7l/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-27/branch/master)
+   [![Build status](https://ci.appveyor.com/api/projects/status/ilhefx4w9a2c9c7l/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-27/branch/develop)
    [27](https://github.com/richelbilderbeek/pirouette_example_27): 
    the effect of non-clock like models
  * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_22.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_22) 
