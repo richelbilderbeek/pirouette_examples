@@ -22,6 +22,12 @@ For the supplementary materials, certain parameters have been investigated:
    [![Build status](https://ci.appveyor.com/api/projects/status/2n2h4p6h7vxjjk3s/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-28/branch/develop)
    [28](https://github.com/richelbilderbeek/pirouette_example_28): 
    use a distribution of DD trees (instead of just one)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_31.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_31)
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_31.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_31)
+   [![Build status](https://ci.appveyor.com/api/projects/status/v0h6pq0loh1375nv/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-31/branch/master)
+   [![Build status](https://ci.appveyor.com/api/projects/status/v0h6pq0loh1375nv/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-31/branch/develop)
+   [31](https://github.com/richelbilderbeek/pirouette_example_31)
+   use multiple artifical trees (instead of just one)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_20.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_20) 
    [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_20.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_20) 
    [![Build status](https://ci.appveyor.com/api/projects/status/dos7ac4cf1x25q58/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-20/branch/master)
@@ -88,6 +94,18 @@ For the supplementary materials, certain parameters have been investigated:
    [![Build status](https://ci.appveyor.com/api/projects/status/uh6ek769fcap0ydr/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-29/branch/develop)
    [29](https://github.com/richelbilderbeek/pirouette_example_29):
    the effect of MCMC chain length on ESS
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_32.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_32) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_32.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_32) 
+   [![Build status](https://ci.appveyor.com/api/projects/status/fm0tn5gsmfxuikpv/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-32/branch/master)
+   [![Build status](https://ci.appveyor.com/api/projects/status/fm0tn5gsmfxuikpv/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-32/branch/develop)
+   [32](https://github.com/richelbilderbeek/pirouette_example_32)
+   use DD tree with 12 taxa (instead of 6)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_33.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_33) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_33.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_33) 
+   [![Build status](https://ci.appveyor.com/api/projects/status/1y3590nnowex6tei/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-33/branch/master)
+   [![Build status](https://ci.appveyor.com/api/projects/status/1y3590nnowex6tei/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-33/branch/develop)
+   [33](https://github.com/richelbilderbeek/pirouette_example_33)
+   use 24 taxa (instead of 6)
 
 ### Other published experiments
 
