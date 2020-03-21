@@ -40,12 +40,18 @@ For the supplementary materials, certain parameters have been investigated:
    [![Build status](https://ci.appveyor.com/api/projects/status/0xdv3uatquca9wce/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-21/branch/develop)
    [21](https://github.com/richelbilderbeek/pirouette_example_21): 
    the effect of DNA sequence length
- * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_19.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_19)
-   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_19.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_19)
-   [![Build status](https://ci.appveyor.com/api/projects/status/ar72ren8hyp0bw3c/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-19/branch/master)
-   [![Build status](https://ci.appveyor.com/api/projects/status/ar72ren8hyp0bw3c/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-19/branch/develop)
-   [19](https://github.com/richelbilderbeek/pirouette_example_19): 
-   the effect of halving a DNA sequence length
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_34.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_34)
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_34.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_34)
+   [![Build status](https://ci.appveyor.com/api/projects/status/ar72ren8hyp0bw3c/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-34/branch/master)
+   [![Build status](https://ci.appveyor.com/api/projects/status/ar72ren8hyp0bw3c/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-34/branch/develop)
+   [34](https://github.com/richelbilderbeek/pirouette_example_34): 
+   the effect of halving a DNA sequence length (that is, from 1k to 500 nucleotides)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_34.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_34)
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_34.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_34)
+   [![Build status](https://ci.appveyor.com/api/projects/status/o2lw8mn4xv2j9f9h/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-34/branch/master)
+   [![Build status](https://ci.appveyor.com/api/projects/status/o2lw8mn4xv2j9f9h/branch/develop?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-34/branch/develop)
+   [34](https://github.com/richelbilderbeek/pirouette_example_34): 
+   the effect of double the DNA sequence length (that is, from 1k to 2k nucleotides)
  * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_27.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_27)
    [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_27.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_27)
    [![Build status](https://ci.appveyor.com/api/projects/status/ilhefx4w9a2c9c7l/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-27/branch/master)
@@ -110,7 +116,7 @@ For the supplementary materials, certain parameters have been investigated:
 ### Other published experiments
 
  * [Revell et al., 2015](https://github.com/richelbilderbeek/pirouette_example_revell_at_al_2015)
- * [Sarver et al., 2019](https://github.com/richelbilderbeek/pirouette_example_sarver_at_al_2019)
+ * [Sarver et al., 2034](https://github.com/richelbilderbeek/pirouette_example_sarver_at_al_2034)
 
 ### Combinations of `pirouette` functionality
 
@@ -137,7 +143,7 @@ Example                                                       |Phylogeny|Gen|Can
 [16](https://github.com/richelbilderbeek/pirouette_example_16)|Fict     |Y  |N   |Y   |CT |1k |NSL  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_16.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_16)|[![Build status](https://ci.appveyor.com/api/projects/status/3nvk5jt46lakbax5/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-16/branch/master)
 [17](https://github.com/richelbilderbeek/pirouette_example_17)|Fict     |Y  |N   |Y   |CT |1k |NSU  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_17.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_17)|[![Build status](https://ci.appveyor.com/api/projects/status/i6i4ptib5jb30mml/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-17/branch/master)
 [18](https://github.com/richelbilderbeek/pirouette_example_18)|Fict     |Y  |Y   |Y   |BD |1k |STD  |STD  |nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_18.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_18)|[![Build status](https://ci.appveyor.com/api/projects/status/n5hj1v9cocg9grkl/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-18/branch/master)
-[19](https://github.com/richelbilderbeek/pirouette_example_19)|Fict     |Y  |Y   |Y   |BD |10k|STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_19.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_19)|[![Build status](https://ci.appveyor.com/api/projects/status/ar72ren8hyp0bw3c/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-19/branch/master)
+[34](https://github.com/richelbilderbeek/pirouette_example_34)|Fict     |Y  |Y   |Y   |BD |10k|STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_34.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_34)|[![Build status](https://ci.appveyor.com/api/projects/status/ar72ren8hyp0bw3c/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-34/branch/master)
 [30](https://github.com/richelbilderbeek/pirouette_example_30)|DD       |Y  |Y   |Y   |BD |10k|STD  |STDEQ|nLTT|[![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_30.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_30)|[![Build status](https://ci.appveyor.com/api/projects/status/xgnu863auclyqfs5/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/pirouette-example-30/branch/master)
  
 ## Legend
