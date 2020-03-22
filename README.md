@@ -136,7 +136,26 @@ For the supplementary materials, certain parameters have been investigated:
    [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_40.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_40) 
    [40](https://github.com/richelbilderbeek/pirouette_example_40)
    use a mutation rate of `2.00 / crown_age` (instead of `1.0 / crown_age`)
-
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_41.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_41) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_41.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_41) 
+   [41](https://github.com/richelbilderbeek/pirouette_example_41)
+   use 32 taxa (instead of 6)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_42.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_42) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_42.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_42) 
+   [42](https://github.com/richelbilderbeek/pirouette_example_42)
+   use 40 taxa (instead of 6)
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_43.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_43) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_43.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_43) 
+   [43](https://github.com/richelbilderbeek/pirouette_example_43):
+   Use 10x shorter MCMC chain length (from 10M to 1M), sample 1k times
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_44.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_44) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_44.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_44) 
+   [44](https://github.com/richelbilderbeek/pirouette_example_44):
+   Use 100x shorter MCMC chain length (from 10M to 100k), sample 1k times
+ * [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_45.svg?branch=master)](https://travis-ci.org/richelbilderbeek/pirouette_example_45) 
+   [![Build Status](https://travis-ci.org/richelbilderbeek/pirouette_example_45.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/pirouette_example_45) 
+   [45](https://github.com/richelbilderbeek/pirouette_example_45):
+   Use 10x longer MCMC chain length (from 10M to 100M), sample 1k times
 
 ### Other published experiments
 
