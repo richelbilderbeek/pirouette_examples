@@ -10,7 +10,7 @@
 #   ./pirouette_examples/scripts/merge_all_examples_to_develop.sh
 #
 
-for folder in $(ls -d pirouette_example_*/)
+for folder in $(ls -d pirouette_example_*/ | sort)
 do
 
   cd $folder
