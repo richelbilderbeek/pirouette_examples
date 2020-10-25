@@ -14,7 +14,7 @@ do
 
   echo "git folder: "$folder
   git add --all :/
-  git commit -m "Use 'create_exemplary_dd_tree'"
+  git commit -m "Use mauricer on GitHub"
   git pull
   git push
 
